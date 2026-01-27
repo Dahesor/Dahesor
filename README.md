@@ -2,8 +2,6 @@
 
 Hey, I am Dahesor. You may call me D for short.
 
-This is a strange person who writes a lot of Minecraft Data Packs (`mcfunction`) but has only basic knowledge over normal programming languages.
-
 Contact/Find me at:
 
 * [Email](<dahesor@gmail.com>)
